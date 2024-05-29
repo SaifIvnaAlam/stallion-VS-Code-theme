@@ -1,0 +1,21 @@
+{
+  "name": "stallion-theme",
+  "displayName": "Stallion Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stallion dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Stallion dark theme-color-theme.json"
+      }
+    ]
+  }
+}
